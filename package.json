@@ -1,0 +1,10 @@
+{
+  "name": "qq-group-photo-downloader",
+  "dependencies": {
+    "moment": "^2.29.4",
+    "node-fetch": "2.6.1",
+    "pending-xhr-puppeteer": "^2.3.3",
+    "puppeteer": "13.6.0"
+  },
+  "packageManager": "yarn@3.2.3"
+}
